@@ -1,4 +1,4 @@
-# anti-vm
+# anti-sandbox
 Simple sandbox detection in C++
 ---
 # How it works
